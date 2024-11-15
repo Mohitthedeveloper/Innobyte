@@ -4,7 +4,7 @@ cd generated_backend
 
 2. Install the dependencies by using
    
-npm run setup
+npm install
 
 
 3. Create Your .env file
@@ -32,15 +32,15 @@ For API testing
 
 By using POST method we can test the SIGNUP
 
-localhost:3000/api/signup
+http://localhost:3000/api/signup
 
 By using POST method we can test the LOGIN
 
-localhost:3000/api/login
+http://localhost:3000/api/login
 
 By using GET method we can test the GET USER PROFILE
 
-localhost:3000/api/profile
+http://localhost:3000/api/profile
 
 6. For EMAIL_PASS
    
