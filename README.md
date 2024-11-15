@@ -2,12 +2,12 @@
    
 cd generated_backend
 
-3. Install the dependencies by using
+2. Install the dependencies by using
    
 npm run setup
 
 
-5. Create Your .env file
+3. Create Your .env file
 
 PORT=3000
 
@@ -19,12 +19,12 @@ EMAIL_USER=your_email_id
 
 EMAIL_PASS=your_app_password
 
-4. Run
+ 4. Run
  
 Start Server:
 npm start
 
-5.API testing
+5. API testing
 
 Open in url or using an Endpoint tester (postman)
 
