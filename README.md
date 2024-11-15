@@ -21,7 +21,7 @@ EMAIL_PASS=your_app_password
 
 4. Run
  
-Start Server
+Start Server:
 npm start
 
 5.API testing
